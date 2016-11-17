@@ -1,6 +1,6 @@
 ### About
 
-Collection of SQL scripts/queries that are targeting machine learning (data mining) algorithms directly inside database using only standardized SQL version. Significant part of SQL was reused from multiple sources, details can be found in "Credits/References" section.
+Collection of SQL scripts/queries that are targeting machine learning (data mining) algorithms directly inside database using only standardized SQL version. Significant part of SQL was reused from multiple sources, details can be found in "Credits/References" section. Please note then terms "machine learning" and "data mining" are used here interchangeably.
 
 ### Usage
 
@@ -26,13 +26,13 @@ It primary planed to be implemented and tested with [SQLite](https://sqlite.org/
 
 * [SQLite](https://sqlite.org/)
 
-### Links to Datasets
+### Datasets
 
 * [Boston Housing Data Set by UCI](https://archive.ics.uci.edu/ml/datasets/Housing)
 
 ### Credits/References
 
-* [ ] [SQL Linear Regression](http://mikemstech.blogspot.de/2013/07/sql-linear-regression.html)
+* [X] [SQL Linear Regression](http://mikemstech.blogspot.de/2013/07/sql-linear-regression.html)
 * [ ] [Optimal two variable linear regression calculation](http://stackoverflow.com/questions/2799047/optimal-two-variable-linear-regression-calculation)
 * [ ] [Single & Multiple Regression in SQL](http://sqldatamine.blogspot.de/2013/07/single-multiple-regression-in-sql.html)
 * [ ] [K Means Clustering](http://sqldatamine.blogspot.de/2013/08/k-means-clustering.html)
