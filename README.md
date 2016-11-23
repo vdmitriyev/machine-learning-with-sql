@@ -38,3 +38,4 @@ It primary planed to be implemented and tested with [SQLite](https://sqlite.org/
 * [ ] [K Means Clustering](http://sqldatamine.blogspot.de/2013/08/k-means-clustering.html)
 * [ ] [Associated Items Using the Apriori Algorithm](http://sqldatamine.blogspot.de/2014/02/associated-items-using-apriori-algorithm.html)
 * [ ] [Classification Using Naive Bayes](http://sqldatamine.blogspot.de/2013/07/classification-using-naive-bayes.html)
+* [ ] [Outlier Detection with SQL Server by Stevan Bolton](https://multidimensionalmayhem.wordpress.com/category/diy-data-mining/outlier-detection-with-sql-server/)
