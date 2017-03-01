@@ -42,3 +42,4 @@ It primary planed to be implemented and tested with [SQLite](https://sqlite.org/
 * [ ] [Classification Using Naive Bayes](http://sqldatamine.blogspot.de/2013/07/classification-using-naive-bayes.html)
 * [ ] [Outlier Detection with SQL Server by Stevan Bolton](https://multidimensionalmayhem.wordpress.com/category/diy-data-mining/outlier-detection-with-sql-server/)
 * [ ] [In-Database Scoring of Random Forest Models built using R via SQL](https://gist.github.com/shanebutler/96f0e78a02c84cdcf558)
+* [ ] [SQL Database Primitives for Decision Tree Classifiers](http://fusion.cs.uni-magdeburg.de/pubs/classprim.pdf) by Kai-Uwe Sattler and Oliver Dunemann
