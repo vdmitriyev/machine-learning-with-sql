@@ -43,3 +43,4 @@ It primary planed to be implemented and tested with [SQLite](https://sqlite.org/
 * [ ] [Outlier Detection with SQL Server by Stevan Bolton](https://multidimensionalmayhem.wordpress.com/category/diy-data-mining/outlier-detection-with-sql-server/)
 * [ ] [In-Database Scoring of Random Forest Models built using R via SQL](https://gist.github.com/shanebutler/96f0e78a02c84cdcf558)
 * [ ] [Integrating Fuzzy c-Means Clustering with PostgreSQL](http://mzym.susu.ru/papers/Miniakhmetov_SYRCoDIS-11.pdf)
+* [ ] [SQL Database Primitives for Decision Tree Classifiers](http://fusion.cs.uni-magdeburg.de/pubs/classprim.pdf) by Kai-Uwe Sattler and Oliver Dunemann
